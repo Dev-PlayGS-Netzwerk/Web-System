@@ -1,0 +1,19 @@
+{
+  "name": "web-system",
+  "version": "1.0.0",
+  "description": "Der komplette Source Code von unserem System im Web.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PlayGS Netzwerk",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mysql2": "^3.3.1"
+  }
+}
